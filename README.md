@@ -1,6 +1,7 @@
 # Telecom-Customer-Churn_Machine-Learning-Project
 
-**Objective**: The goal is to predict customer churn by analyzing demographic information, account information, and services information of customers. Predicting churn is crucial for retaining existing customers and reducing the costs associated with acquiring new ones.
+**Objective**: 
+The goal is to predict customer churn by analyzing demographic information, account information, and services information of customers. Predicting churn is crucial for retaining existing customers and reducing the costs associated with acquiring new ones.
 
 **Dataset:**
 The dataset contains 19 columns, including independent variables like gender, senior citizen status, partner, dependents, tenure, contract type, billing information, payment method, monthly charges, total charges, and various services-related information. The response variable is 'Churn,' indicating whether a customer left the company in the last month (Yes) or not (No).
