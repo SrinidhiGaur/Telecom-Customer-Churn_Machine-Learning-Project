@@ -1,4 +1,4 @@
-# Telecom-Customer-Churn_Machine-Learning-Project
+# Telecom-Customer-Churn
 
 ## Objective: 
 The goal is to predict customer churn by analyzing demographic information, account information, and services information of customers. Predicting churn is crucial for retaining existing customers and reducing the costs associated with acquiring new ones.
